@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyDroidCafeV1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_desert_recipe_fragment">Hello Desert Recipe Fragment</string>
+    <string name="hello_pastries_recipe_fragment">Hello Pastries Recipe Fragment</string>
+    <string name="hello_stores_fragment">Hello Stores Fragment</string>
+<!--    tab strings -->
+    <string name="tab_label_1">Deserts</string>
+    <string name="pasta">Pastries</string>
+    <string name="store">Store</string>
+    <string name="desert_recipes">Desert Recipes</string>
+    <string name="browse_recipes">Browse Recipes</string>
+    <string name="recipe_title">Recipe Title</string>
+    <string name="prep_amp_cook_time_2_hrs"><![CDATA[Prep & Cook Time: 2 hrs]]></string>
+<!--    Image arrays-->
+    <array name="desert_image">
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+        <item>@drawable/icecream</item>
+    </array>
+
+<!-- titles-->
+    <string-array name="desert_title">
+        <item>Donut</item>
+        <item>Froyo</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Donut</item>
+        <item>Froyo</item>
+        <item>Ice Cream Sandwich</item>
+    </string-array>
+<!--    description-->
+    <string-array name="desert_description">
+        <item>Donuts are glazed and sprinkled with Candy </item>
+        <item>Froyo is a premium self serve yoghurt</item>
+        <item>Ice cream sandwiches have chocolate and vanilla filling</item>
+        <item>Donuts are glazed and sprinkled with Candy </item>
+        <item>Froyo is a premium self serve yoghurt</item>
+        <item>Ice cream sandwiches have chocolate and vanilla filling</item>
+        <item>Donuts are glazed and sprinkled with Candy </item>
+        <item>Froyo is a premium self serve yoghurt</item>
+        <item>Ice cream sandwiches have chocolate and vanilla filling</item>
+    </string-array>
+</resources>
